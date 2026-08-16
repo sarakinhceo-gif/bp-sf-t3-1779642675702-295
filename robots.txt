@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mapo-web-13.maphoshirts.xyz/sitemap.xml
+Sitemap: https://mapo-web-13.maphoshirts.xyz/sitemap-pages.xml
